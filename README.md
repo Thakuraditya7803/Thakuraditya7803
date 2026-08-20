@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Aditya%20Singh%20Thakur&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Data%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Aditya%20Singh%20Thakur&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Data%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
