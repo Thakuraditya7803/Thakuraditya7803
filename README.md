@@ -127,7 +127,7 @@ class Aditya:
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Thakuraditya7803/adityasinghthakur/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Thakuraditya7803/Thakuraditya7803/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 <!-- This needs a one-time GitHub Actions setup (Platane/snk action) — I can write that workflow
