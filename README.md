@@ -28,9 +28,9 @@ class Aditya:
 ```
 
 - 🔭 Currently working on **[MES TATA_PRO]**
-- 🌱 Currently learning **[Tool/Concept]**
-- 💬 Ask me about **Python, SQL, ETL/ELT, AWS, Docker**
-- 🎯 Goal: land a **To Best At What Ever I do **
+- 🌱 Currently learning **[Databricks,API,Apache Spark]**
+- 💬 Ask me about **Python, SQL, ETL/ELT, AWS,AI and ML**
+- 🎯 Goal: ** To Be Best At What Ever I do **
 - 📫 Reach me at **[adityathakur7803@gmail.com]**
 
 ---
