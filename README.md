@@ -27,10 +27,10 @@ class Aditya:
         print("Always down to talk data pipelines, latest Tech, Cybersecurity,AIML or cloud architecture.")
 ```
 
-- 🔭 Currently working on **[Project name]**
+- 🔭 Currently working on **[MES TATA_PRO]**
 - 🌱 Currently learning **[Tool/Concept]**
 - 💬 Ask me about **Python, SQL, ETL/ELT, AWS, Docker**
-- 🎯 Goal: land a **Data Engineering / Data Analyst internship**
+- 🎯 Goal: land a **To Best At What Ever I do **
 - 📫 Reach me at **[adityathakur7803@gmail.com]**
 
 ---
