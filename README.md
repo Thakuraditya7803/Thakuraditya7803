@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Aditya%20Singh%20Thakur&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Data%20Engineer&descAlignY=80&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aditya-s1ngh-thakur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:adityathakur7803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+data+pipelines+that+don't+break;Python+%7C+SQL+%7C+AWS+%7C+PySpark+%7C+Databricks;Turning+raw+data+into+something+usable;Open+to+Data+Engineering+Internships" alt="Typing SVG" />
