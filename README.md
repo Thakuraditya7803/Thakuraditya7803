@@ -112,12 +112,12 @@ class Aditya:
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Thakuraditya7803&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thakuraditya7803&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thakuraditya7803&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <!-- Replace YOUR_GITHUB_USERNAME everywhere above with your real GitHub username. -->
@@ -127,7 +127,7 @@ class Aditya:
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Thakuraditya7803/Thakuraditya7803/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 <!-- This needs a one-time GitHub Actions setup (Platane/snk action) — I can write that workflow
@@ -137,7 +137,7 @@ class Aditya:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Thakuraditya7803&color=blueviolet&style=flat-square)
 
 *Open to Data Engineering / Data Analyst internship & entry-level opportunities.*
 
