@@ -21,17 +21,17 @@ class Aditya:
         self.focus = "Data Engineering / Data Analytics"
         self.currently_building = "[Project name — e.g. AWS ETL Data Pipeline]"
         self.currently_learning = ["[e.g. Apache Airflow]", "[e.g. Kafka]"]
-        self.fun_fact = "[optional — one honest line]"
+        self.fun_fact = "[Use to be a crickter now a programmer]"
 
     def say_hi(self):
-        print("Always down to talk data pipelines, SQL, or cloud architecture.")
+        print("Always down to talk data pipelines, latest Tech, Cybersecurity,AIML or cloud architecture.")
 ```
 
 - 🔭 Currently working on **[Project name]**
 - 🌱 Currently learning **[Tool/Concept]**
 - 💬 Ask me about **Python, SQL, ETL/ELT, AWS, Docker**
 - 🎯 Goal: land a **Data Engineering / Data Analyst internship**
-- 📫 Reach me at **[your email]**
+- 📫 Reach me at **[adityathakur7803@gmail.com]**
 
 ---
 
@@ -112,12 +112,17 @@ class Aditya:
 ### 📊 GitHub Stats
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Thakuraditya7803&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thakuraditya7803&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=Thakuraditya7803&theme=tokyonight&hide_border=true" height="165"/>
+
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thakuraditya7803&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
 </div>
 
 <!-- Replace YOUR_GITHUB_USERNAME everywhere above with your real GitHub username. -->
